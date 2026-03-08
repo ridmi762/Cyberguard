@@ -4,7 +4,7 @@ CyberGuard - Password Security &amp; Encryption Suite
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+**URL**: https://local-lockbox.lovable.app
 
 ## How can I edit this code?
 
