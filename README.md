@@ -1,5 +1,5 @@
-# Cyberguard
-CyberGuard - Password Security &amp; Encryption Suite
+# Cyberguard - Password Security &amp; Encryption Suite
+
 ## Project info
 **URL**: https://local-lockbox.lovable.app
 
