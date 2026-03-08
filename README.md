@@ -235,9 +235,9 @@ No passwords or sensitive information are transmitted or collected.
 
 # 👨‍💻 Author
 
-**Ridmi Galarachchige**
+**Galarachchige Nimesha Ridmi**
 
-Cybersecurity | Networking | Security Enthusiast
+Cybersecurity | Networking | Undergraduate Student
 
 ---
 
